@@ -1,4 +1,4 @@
-#include "main.h"
+include "main.h"
 
 /**
  * printf_srev - function that prints a str in reverse
